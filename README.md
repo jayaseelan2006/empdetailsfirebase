@@ -359,24 +359,25 @@ public class ModifyCountryActivity extends AppCompatActivity {
     }
 }
 
-
 ```
-
-
-
-
-
-
 ## OUTPUT:
 ## COUNTRY LIST:
 
 <img width="346" height="329" alt="Screenshot 2025-09-01 114215" src="https://github.com/user-attachments/assets/aa04c2c1-a8c6-48c2-94ff-97716c7da8bd" />
+
+
 ## ADD COUNTRY SCREEN:
 
+
 <img width="344" height="297" alt="Screenshot 2025-09-01 114340" src="https://github.com/user-attachments/assets/9bf8b8e4-fc14-4e82-ac8c-03d24276a168" />
+
+
 ## MODIFY/DELETE COUNTRY SCREEN:
 
+
 <img width="333" height="252" alt="Screenshot 2025-09-01 114434" src="https://github.com/user-attachments/assets/b5935536-1724-4b73-9c71-a1a6fd5fc1df" />
+
+
 
 
 ## RESULT
